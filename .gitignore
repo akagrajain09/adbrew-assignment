@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Database
+src/rest/mydatabase
+
+# Docker
+src/db/
+src/tmp/
+
+# React cache
+.eslintcache
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Environment
+.env
